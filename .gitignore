@@ -30,3 +30,7 @@ test/bin/
 
 # Cache
 *.swp
+conf/frpc.ini
+conf/frpc.ini
+FRP-Official.code-workspace
+conf/frpc.ini
